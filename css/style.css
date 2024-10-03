@@ -8,6 +8,22 @@
 }
 
 /* posword个人使用 */
+html{
+	margin-bottom: 1px;
+	min-height: 100%;
+}
+body {
+	background: #F0F0F0;
+	color: #444;
+	font-size: 62.5%;
+}
+html>body {
+	font-size: 16px;
+}
+p, blockquote, footer {
+	font-size: 1em;
+	line-height: 1.5;
+}
 main#content{
 	background: #FFF;
 	margin: -45px auto 0;
